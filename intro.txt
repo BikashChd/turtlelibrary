@@ -1,0 +1,14 @@
+Turtle in python
+
+Turtle is a toolkit in python which provided a simple and enjoyable way to draw pictures on windows or screen.
+Turtle graphics refers to controling a graphical entity in a graphics window with x,y coordinates.
+
+How to use turtle graphics in python?
+import turtle 
+or 
+from turtle import *  //Here we are not importing the modules we are impoting the methods itself.
+
+How to create turtle?
+bikash=turtle.Turtle()
+bikash.shape()
+bikash.shape("turtle")
